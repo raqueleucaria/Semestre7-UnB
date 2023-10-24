@@ -1,0 +1,40 @@
+Após a análise cooperativa com toda turma, uma nova evolução foi solicitada envolvendo recursos novos no estudo da disciplina/turma e solicitando a implementação inicial do projeto de banco de dados criado até o nosso momento de estudo. Assim, trabalhe na evolução da solução que está na Área de Compartilhamento (pasta solucoes e arquivo CORRIGIR_aula4exer5Evolucao3_MatheusOliveira_190058587.zip) e corrija os problemas detectados para a solução do enunciado proposto, também elaborando um novo arquivo responsável pela implementação física da proposta de solução no Sistema Gerenciador de Banco de Dados MySQL.
+
+
+ENUNCIADO ORIGINAL
+
+Uma clínica médica está preocupada com o receituário que seus médicos estão passando para cada paciente e lhe contratou para elaborar uma base de dados que permita ao coordenador da clínica acompanhar estas receitas médicas fornecidas aos pacientes, evitando possíveis enganos. Cada médico precisa ser cadastrado com seu CRM (número de inscrição do médico no Conselho Regional de Medicina, que é estadual), nome completo e especialidade clínica, enquanto os pacientes serão registrados no banco de dados com nome completo, idade, sexo, telefone(s) e o endereço residencial (só um endereço). A possível prescrição média, contida na receita fornecida pelo médico após uma consulta na clínica, deverá conter a data de emissão e o(s) medicamento(s) receitado(s). Faça o ME-R, DE-R (no brModelo) e o DE (Diagrama de Esquemas) DLD (também no brModelo). Esses artefatos para os diferentes níveis de um projeto de banco de dados deverão atender as necessidades dessa Clínica para resolver o problema proposto no nível de banco de dados.
+
+A partir das últimas aulas a entrega do projeto de banco de dados deverá acontecer através de um único arquivo compactado no formato ZIP somente, não sendo considerada a atividade realizada se o arquivo estiver em outro formato e não contiver os TRÊS arquivos indicados abaixo:
+
+1) arquivo do brModelo com Diagrama Conceitual (DE-R) com a expressão inicial aula4exer5Evolucao4_Conceitual sendo incluído o primeiro e último nome do estudante, além de sua matrícula antes da extensão do arquivo (.brM3);
+
+2) arquivo do brModelo com Diagrama Lógico de Dados (DLD) com a expressão inicial aula4exer5Evolucao4_Logico, sendo incluído o primeiro e último nome do estudante, além da matrícula antes da extensão do arquivo (.brM3);
+
+3) arquivo de documentação obrigatória contendo ME-R (dividido em 3 partes descritivas - indicação das Entidades, descrição das Entidades e descrição dos Relacionamentos), DE-R (diagrama gerado pelo brModelo) e DLD (diagrama gerado pelo brModelo) com a expressão inicial aula4exer5Evolucao4_DOC, sendo incluído o primeiro e último nome do estudante, além da matrícula antes da extensão do arquivo;
+
+4) arquivo de implementação para o SGBD MySQL contendo somente instruções SQL para implementar a base de dados, sem existir nenhuma instrução ALTER, que terá o mesmo nome da expressão inicial usada no arquivo compactado explicada e exigida abaixo neste enunciado (aula4exer5Evolucao4). O nome deste novo arquivo terá a expressão inicial aula4exer5Evolucao4_Fisico, com extensão .sql para ser aceito na elaboração desse projeto.
+
+Respeite o padrão de nome do único arquivo que será entregue no MOODLE, contendo a expressão inicial aula4exer5Evolucao4, seguida de seu primeiro e último nome SOMENTE, sem acento ou 'ç', e sua matrícula na UnB. Por exemplo, suponha que o aluno Michel Miguel Elias Temer Lulia, com matrícula 16-543123, fosse entregar a solução desse exercício no arquivo compactado que se chamaria:
+
+aula4exer5Evolucao4_MichelLulia_16543123.zip
+
+Os demais arquivos contidos nesse arquivo compactado e DENTRO DE UMA PASTA específica com o nome padrão indicado acima (sem a extensão .zip) respeitarão as definições já apresentadas anteriormente neste enunciado, sendo.
+
+1 => aula4exer5Evolucao4_Conceitual_MichelLulia_16543123.brM3 (arquivo do brModelo com DE-R);
+
+2 => aula4exer5Evolucao4_Logico_MichelLulia_16543123.brM3 (arquivo do brModelo com DLD);
+
+3 => aula4exer5Evolucao4_DOC_MichelLulia_16543123.pdf (ou .docx ou .doc) - (arquivo de documentação com ME-R e figuras do DE-R e DLD  gerados pelo brModelo , além da Descrição em Tabelas que será mapeada diretamente do DLD proposto);
+
+4 => aula4exer5Evolucao4_Fisico_MichelLulia_16543123.sql (arquivo elaborado em editor de texto padrão ASCII como Bloco de Notas, sem recursos de formatação visual, mas simplesmente o uso de caracteres, lembrando que este arquivo corresponde a documentação de implementação de uma base de dados e deve possuir o CABEÇALHO padrão exigido pela disciplina preenchido - modelo padrão se encontra na Área de Compartilhamento na pasta aulas);
+
+Assim, depois de elaborado o DLD deverá ser criado o arquivo Fisico, NÃO existindo mais a Descrição em Tabelas no projeto entregue, mas devendo existir o cabeçalho obrigatório que tem o modelo disponível na Área de Compartilhamento.
+
+ATENÇÃO
+
+Toda análise ou avaliação sobre qualquer projeto de banco de dados solicitado é realizada a partir do arquivo de documentação (DOC), estando ele ausente na entrega a atividade nem será considera entregue, independente de qualquer outro arquivo que esteja presente na entrega no ambiente exigido. 
+
+Note que cada solução de problemas solicitadas envolve vários arquivos, sendo atingida pela turma o momento que todos os projetos solicitados para entrega no MOODLE (Aprender3 da UnB) deverão criar UMA PASTA com o nome padrão que corresponde exatamente ao nome do arquivo compactado para armazenar todos os arquivos do projeto que resolve o problema proposto, sem a extensão por se tratar de uma pasta e não de um arquivo. Cada projeto entregue que NÃO esteja em uma pasta os seus arquivos componentes da proposta de solução no arquivo compactado e entregue refletirá diretamente em sua avaliação prática do projeto entregue na atividade MOODLE. Esta organização facilita você com seus arquivos e todos os colegas que poderão baixar para correção cooperativa entre todos durante a aula. Em atividades avaliativas essa organização no armazenamento e compartilhamento dos arquivos que são responsáveis por um projeto de banco de dados também são avaliadas.
+
+Caso não seja possível abrir os arquivos entregues em seus ambientes indicados neste enunciado para correção, a atividade será considerada não realizada pelo estudante, comprometendo diretamente a nota correspondente a atividade avaliativa denominada E no Plano de Ensino da disciplina/turma.
