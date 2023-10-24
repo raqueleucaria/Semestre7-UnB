@@ -1,0 +1,46 @@
+Com o intuito de compreender melhor o processo de Generalização e Especialização em banco de dados, elabore um modelo (ME-R), seu diagrama (DE-R) e os esquemas (DE) correspondentes que representem as categorias que envolvem uma Pessoa a uma instituição de ensino (Aluno, Professor e Funcionário da instituição). Identifique os atributos corretamente entre cada uma das entidades e em seguida elabore os diagramas.
+
+O ME-R e DE-R final devem ter a preocupação em representar uma característica especifica para cada especialização, caso contrário a especialização NÃO seria necessária.
+
+   + Aluno também terá matrícula estudantil única nessa instituição;
+
+   + Professor ainda terá a área principal de sua formação para atuar como docente na instituição;
+
+   + Funcionário da instituição também terá armazenado seu salário em reais (R$).
+
+Somente para Funcionário da instituição ainda deverão ser cadastrados os dependentes legais com a idade em anos completos, data de nascimento e os dados fundamentais de uma Pessoa (nome completo e sexo) para esta instituição, sendo sexo correspondente ao gênero natural da pessoa armazenado através do código M para masculino e F para feminino.
+
+
+Desenvolva a proposta de solução para o correto armazenamento de dados dessas pessoas, que também estão associadas a alguma característica particular (ou específica) com a referida instituição de ensino que poderá utilizar a sua proposta de solução.
+
+Faça o ME-R, seu respectivo DE-R e o DE (esquemas) para que um banco de dados possa armazenar e gerenciar os dados pessoais dessas pessoas descritas neste enunciado. Sua solução deve respeitar o padrão definido e exigido nesta disciplina/turma para elaboração de um Projeto de Banco de Dados no nível de estudo em que a turma se encontra. Lembro que em algumas aulas anteriores foi definido que todo DE-R deverá ser elaborado no brModelo na versão 3.31 ou superior, ou tal entrega nem será considerada realizada a contento da disciplina/turma.
+
+A entrega dos arquivos no MOODLE do projeto inicial de banco de dados também acontecerá envolvendo mais que um arquivo, sendo então entregue um arquivo único compactado somente no formato ZIP na atividade do MOODLE. Os arquivos que estarão presentes nessa compactação são:
+
+ => arquivo do brModelo com Diagrama Conceitual (DE-R) com a expressão inicial aula4exer4_Conceitual;
+ => outro arquivo de documentação padrão em PDF contendo o ME-R padrão definido para turma, DE-R (figura gerada pelo brModelo pela opção exportar) que gera uma figura que deverá ser incluída no arquivo de documentação) e o Diagrama de Esquemas (DE) que deverá corresponder a uma imagem inserida também neste arquivo de documentação do projeto, tendo este arquivo de documentação a expressão inicial aula4exer4_DOC. O DE não é elaborado pelo brModelo e você deverá fazê-lo usando um software que permita desenhar corretamente o DE com suas propriedades estudadas até o momento da turma, além de corresponder ao DE-R corretamente (mapeamento do nível conceitual para o nível lógico).
+
+Consulte como MODELO de projeto de banco de dados a ser entregue nas atividades da disciplina/turma as soluções corrigidas e disponíveis na Área de Compartilhamento (pasta solucoes), além da interação com os monitores ou colegas de turma em caso dúvidas ou dificuldades.
+
+Respeite o padrão de nome do arquivo que será entregue no MOODLE, contendo a expressão inicial aula4exer4 também no arquivo compactado (ZIP). Após a expressão inicial definida para cada arquivo relacionado acima, também deverá ser inserido somente o seu primeiro e último nome (sem acento ou 'ç') e sua matrícula na UnB. Por exemplo, suponha que a aluna Ana Maria Braga, com matrícula 20-003254, fosse entregar a solução desse exercício, em que o nome do arquivo compactado dela seria:
+
+aula4exer4_AnaBraga_20003254.zip
+
+
+Os demais arquivos contidos no arquivo compactado acima seriam:
+
+1 => aula4exer4_Conceitual_AnaBraga-20003254.brM3 (arquivo do brModelo 3.31 ou superior do DE-R - diagrama do nível Conceitual);
+
+
+2 => aula4exer4_DOC_AnaBraga-20003254.pdf (arquivo de documentação com ME-R, imagem do DE-R gerado do brModelo e o Diagrama de Esquemas).
+
+
+
+
+ATENÇÃO
+
+Tal atividade é obrigatória para todos os estudantes da turma que tenham o número final de sua matrícula na UnB PAR, podendo qualquer outro colega da turma, que deseje seguir em sua melhor aprendizagem prática, também resolver e entregar esta atividade.
+
+É importante esclarecer que a correção da solução entregue será feita em navegador que abra arquivo PDF padrão. Portanto, o arquivo entregue tem que ser elaborado respeitando todos os padrões indicados anteriormente para ser considerado entregue. Caso não seja possível abrir o arquivo de documentação, ou o arquivo esteja com vírus, a atividade será considerada não realizada pelo estudante, interferindo diretamente no valor da nota do item E previsto no Plano de Ensino.
+
+A ausência do arquivo de documentação (DOC), como exige a disciplina/TURMA, configura falta de conhecimento mínimo necessário ao estudante, que obterá nota mínima na atividade (zero), pois toda correção de Projeto de Banco de Dados é analisada/corrigida a partir do arquivo DOC.

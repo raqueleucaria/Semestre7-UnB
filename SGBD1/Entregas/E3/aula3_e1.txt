@@ -1,0 +1,20 @@
+Analise uma das soluções estudadas na última aula (em 05/9), que usou arquivos de dados com a programação na Linguagem C e que as três estão disponíveis na Área de Compartilhamento (arquivo CORRIGIR_aula2exer1_solucoes.zip na pasta solucoes).
+
+Represente a(s) estrutura(s) utilizada(s) para armazenar os dados em uma das três soluções disponíveis neste arquivo compactado compartilhado, indicando o nome do arquivo fonte na Linguagem C que você escolheu para representar e elabore o Diagrama de Esquemas (DE) correspondente que formará a especificação de sua base de dados no Sistema Gerenciador de Banco de Dados Relacional (SGBDR), substituindo os arquivos responsáveis por tal armazenamento de dados no programa em C indicado.
+
+Similar ao que foi abordado durante a Aula 3, crie também as respectivas tabelas provenientes dos esquemas propostos e escolha pelo menos 3 colegas de sua turma e os registre nos seus esquemas (se precisar solicite os dados corretos e reais de seus colegas de turma por e-mail, não podendo colocar os seus dados e nem outros que sejam fictícios).
+
+Assim, analise e EVOLUA a solução de uma das três proposta de soluções do arquivo que está na Área de Compartilhamento para representar tal situação elaborando o Diagrama de Esquemas (DE) relacionado as struct na Linguagem C e depois faça a representação em TABELA(s) com dados reais de seus colegas de turma.
+
+Atente ao padrão utilizado nesse diagrama (DE) e o empregue corretamente em sua solução, pois sendo uma representação de uma implementação técnica o formalismo de todos os seus detalhes devem ser respeitados ou não corresponderão a um DE que representa (documenta) um projeto de banco dados.
+
+Respeite o padrão de nome do arquivo que será entregue no MOODLE, contendo a expressão inicial aula3exer1, seguida de seu primeiro e último nome somente e sua matrícula na UnB. Por exemplo, suponha que a aluna Dilma Vana Rousseff, com matrícula 12-582794, fosse entregar a solução dela. O nome do arquivo dela seria:
+
+
+aula3exer1_DilmaRousseff_12582794.pdf    (ou no padrão .jpg)
+
+ 
+
+ATENÇÃO
+
+É importante esclarecer que o arquivo que não puder ser aberto ou estiver com vírus não será considerado entregue nesta atividade, onerando o item E previsto no Plano de Ensino da disciplina/turma.

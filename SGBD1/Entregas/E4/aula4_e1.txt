@@ -1,0 +1,17 @@
+Uma instituição de ensino no nível fundamental está com dificuldades para administrar as turmas criadas na escola e por isso lhe solicitou uma solução.
+
+Cada docente que atua nesta escola é registrado com nome completo, matrícula funcional única e gênero (sexo). As disciplinas oferecidas pela escola são cadastrada com um código numérico, que as identifica unicamente, e o nome. Assim, as turmas da escola são formadas com a indicação da disciplina, do docente responsável, código da turma (A, B, C,...), ano ou série da turma (1ª, 2ª até a 9ª), período (manhã, tarde ou noite) e o ano letivo.
+
+Após sua compreensão adequada do problema elabore o Diagrama Entidade-Relacionamento (DE-R) que seja coerente para a sua proposta de solução para resolver a situação de armazenamento de dados que seriam adequados para essa solução. Depois do DE-R terminado e correto realize o mapeamento do DE-R em seu Diagrama de Esquemas (DE) correspondente. Note que a análise e solução de um problema parte da modelagem (ME-R) e seu diagrama (DE-R) para depois evoluir (mapeamento) para o DE e nunca o contrário.
+
+Atente ao padrão utilizado nesses diagramas (DE-R e DE) e os empregue corretamente em sua proposta de solução, pois eles não são desenhos a serem pintados, mas Diagramas que possuem normas e regras para serem elaborados, de forma adequada e compreensível para qualquer profissional da área de Banco de Dados (não esqueça de indicar corretamente em cada esquema que necessitar possuir chave primária para resolver o problema proposto).
+
+Respeite o padrão de nome do arquivo que será entregue no MOODLE, contendo a expressão inicial aula4exer1, seguida de seu primeiro e último nome somente e sua matrícula na UnB. Por exemplo, suponha que o aluno Jair Messias Bolsonaro, com matrícula 12-582749, fosse entregar a solução dele. O nome do arquivo dele seria:
+
+aula4exer1_DilmaRousseff_12582794.pdf (ou no padrão .jpg)
+
+ 
+
+ATENÇÃO
+
+É importante esclarecer que o arquivo que não puder ser aberto ou estiver com vírus não será considerado entregue a contento nesta atividade, onerando o item E previsto no Plano de Ensino da disciplina.

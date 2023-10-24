@@ -1,0 +1,26 @@
+ENUNCIADO ORIGINAL DA PESQUISA
+Com o objetivo de melhor conhecer e estudar as Ferramentas CASE em Banco de Dados você deve acessar a 8ª Videoaula disponível no MOODLE dessa disciplina e assistir com atenção os esclarecimentos disponíveis sobre o que são as Ferramentas CASE.
+Em seguida, você deverá acessar o SAE e acionar pela primeira vez o módulo mais conhecido como Material que na verdade implementa um Sistema de Recomendações de Conteúdo (SRC) para você estudar melhor o que é uma Ferramenta CASE para banco de dados. Este módulo do SAE é acionado quando você clica na esfera Material disponível entre as demais esferas que permitem rápida navegação no SAE entre os seus diferentes módulos (a esfera Material está disponível somente na janela de navegação principal).
+
+Clique sobre a opção do menu lateral à esquerda denominada Solicitar e em seguida na lupa do campo Conteúdo para que você possa definir sobre qual conteúdo da disciplina deseja receber a recomendação de conteúdos de estudo na sua disciplina. Escolha o conteúdo Modelo Relacional de Dados e solicite a sugestão deste módulo do SAE.
+
+Procure algum conteúdo sobre Ferramentas CASE. Caso nenhum seja apresentado inicialmente então clique na opção Apresentar Todas disponível no final dos conteúdos recomendados. Procure entre eles os conteúdos sobre Ferramentas CASE e o assista (ou leia), a fim de iniciar a sua pesquisa sobre Ferramentas CASE.
+
+Somente depois de assistir (ou ler) dois materiais sobre o assunto (ligação disponível no MOODLE como 8ª videoaula e alguma recomendação fornecida pelo módulo Material do SAE) você deverá responder as questões abaixo nessa atividade do MOODLE, entregando um arquivo no formato padrão em PDF com a expressão inicial ferramentasCase, seguida de seu primeiro e último nome, além da matrícula. Por exemplo, o arquivo entregue pela Ana Maria Braga, de matrícula 19003245 seria:
+
+ferramentasCase_AnaBragra_19003245.pdf
+
+Sua resposta não poderá possuir menos do que 100 caracteres ou mais que 500 caracteres para poder ser avaliada em estar CORRETA ou INCORRETA. Se não respeitar essa definição a resposta será considerada incorreta e não resolvida a contento, independente do seu conteúdo (atividade será considerada NÃO realizada ou entregue).
+
+
+PERGUNTAS
+
+
+1) A ferramenta (software) brModelo, utilizada na disciplina, é uma Ferramenta CASE?
+
+
+2) Com base em seus estudos sobre os materiais pesquisados (no mínimo as duas videoaulas), e outros materiais que você pode se sentir à vontade em consultar após o estudo dos materiais básicos indicados nesta atividade, justifique a sua resposta a pergunta anterior (número 1), subsidiando a sua resposta de forma mais esclarecedora (justificando a resposta da questão 1)?
+
+
+
+Um ótimo estudo investigativo sobre essas importantes ferramentas para a área da Informática como um todo (não só para área de Banco de Dados).

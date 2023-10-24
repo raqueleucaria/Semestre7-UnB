@@ -1,0 +1,31 @@
+A clínica médica SAÚDE está preocupada com o receituário que seus médicos estão passando para cada paciente e lhe contratou para elaborar um banco de dados que permita ao coordenador da clínica acompanhar estas receitas médicas fornecidas aos pacientes, evitando possíveis enganos.
+
+Cada médico precisa ser cadastrado com seu CRM (número de inscrição do médico no Conselho Regional de Medicina, que é estadual), nome completo e especialidade clínica, enquanto os pacientes serão registrados no banco de dados com nome completo, idade, sexo, telefone(s) e um só endereço residencial completo. A possível prescrição média, contida na receita fornecida pelo médico após uma consulta na clínica, deverá conter a data de emissão e o(s) medicamento(s) receitado(s).
+
+Faça o ME-R, DE-R e o DE, além da Descrição em Tabelas no final do arquivo de documentação (DOC). Esses artefatos para os diferentes níveis de um projeto de banco de dados deverão atender as necessidades dessa clínica para resolver o problema proposto no nível de banco de dados.
+
+A entrega do projeto de banco de dados deverá acontecer através de um único arquivo compactado somente no formato ZIP, não sendo considerada a atividade realizada se o arquivo estiver em outro formato e não contiver os dois arquivos indicados abaixo:
+
+1) arquivo do brModelo com Diagrama Conceitual (DE-R) com a expressão inicial aula4exer5_Conceitual;
+
+2) arquivo de imagem no formato (PNG ou JPG) com Diagrama de Esquemas (DE) com a expressão inicial aula4exer5_Esquemas;
+
+3) arquivo de documentação contendo ME-R (dividido em 3 partes descritivas - Entidades, Atributos e Relacionamentos), DE-R (diagrama gerado pelo brModelo) e DE (diagrama elaborado em software de imagens) com a expressão inicial aula4exer5_DOC;
+
+
+Respeite o padrão de nome do arquivo que será entregue no MOODLE, contendo a expressão inicial aula4exer5, seguida de seu primeiro e último nome SOMENTE, sem acento ou 'ç', e sua matrícula na UnB. Por exemplo, suponha que o aluno Michel Miguel Elias Temer Lulia, com matrícula 16-543123, fosse entregar a solução desse exercício o arquivo compactado seria:
+
+aula4exer5_MichelLulia_16543123.zip
+
+Os demais arquivos contidos nesse arquivo compactado respeitarão as definições já apresentadas anteriormente neste enunciado, sendo:
+
+1 => aula4exer5_Conceitual_MichelLulia-16543123.brM3 (arquivo do brModelo com Diagrama do nível Conceitual - DE-R);
+
+2 => aula4exer5_Esquemas_MichelLulia-16543123.jpg  ou png (arquivo de imagem com Diagrama de Esquemas do nível Lógico - DE);
+
+3 => aula4exer5_DOC_MichelLulia-16543123.pdf (arquivo de documentação com ME-R e figuras do DE-R e DE), além da Descrição em Tabelas conforme foi estudado no final de nossa última aula na FGA).
+ 
+ATENÇÃO
+
+Todos os estudantes da turma deverão elaborar uma solução para este problema. Caso não seja possível abrir os arquivos entregues em seus ambientes indicados neste enunciado para correção a atividade será considerada NÃO realizada a contento pelo estudante. É importante ressaltar neste momento inicial da elaboração de projetos de banco de dados que toda análise ou correção só acontece a partir do arquivo DOC em toda disciplina/turma, no qual a ausência de tal arquivo resulta na avaliação mínima (zero), independente de qualquer alegação.
+
