@@ -1,0 +1,18 @@
+Acesse a Área de Compartilhamento da disciplina/turma e faça a Descrição em Tabelas para a solução corrigida pelo estudante e que está disponível no arquivo aula4exer4_HenriquePinto_202016506.zip na pasta solucoes.
+
+
+ENUNCIADO (original)
+
+A descrição deverá realizar a especificação de cada tabela de suas restrições de chave primária e chave estrangeira, conforme definido no material de estudo para realização de tais descrições completamente coerente com o ME-R, DE-R e DE apresentados nesta solução compartilhada.
+
+A entrega do único arquivo a resolver esta nova atividade deverá corresponder ao DOC solicitado na atividade anterior, mas tendo ao seu final a descrição de todas as tabelas resultante dessa modelagem envolvendo Generalização/Especialização. Lembro que o arquivo DOC possui o ME-R, DE-R e DE, mas será completado ao final com a Descrição em Tabelas resultantes de tal proposta de solução.
+
+Respeite o padrão exigido na disciplina, no qual a expressão inicial será aula5extra1 para o arquivo único no formato PDF que deverá ser entregue por todos os estudantes da turma, por exemplo, suponha que o aluno Jair Messias Bolsonaro fosse entregar este exercício, tendo ele a matrícula na UnB 15-0678041. O nome de seu arquivo único com a documentação, contendo o ME-R, as figuras do DE-R e DE, além da Descrição em Tabelas de todo o projeto seria:
+
+aula5extra1_JairBolsonaro_150678041.pdf
+
+
+ATENÇÃO
+Toda análise ou avaliação sobre qualquer projeto de banco de dados solicitado é realizada a partir do arquivo de documentação (DOC), estando ele ausente na entrega a atividade nem será considera entregue, independente de qualquer outro arquivo que esteja presente na entrega no ambiente exigido. 
+
+Caso não seja possível abrir os arquivos entregues em seus ambientes indicados neste enunciado para correção a atividade será considerada não realizada pelo estudante, comprometendo diretamente a nota correspondente a atividade avaliativa denominada E no Plano de Ensino da disciplina.

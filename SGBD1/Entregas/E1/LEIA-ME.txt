@@ -1,0 +1,11 @@
+LEIA-ME
+
+Para compilar o código foi utilizado as linhas de comando: 
+
+- gcc aula1exer1_RaquelCosta_202045268.c
+- ./a.out
+
+Existem 3 opções possíveis dentro do programa: 
+1 - Cadastrar Usuário e Veículo (no final de uma cadastro você poderá visualizar os registros atuais)
+2 - Acessar registros 
+3 - Sair do programa

@@ -1,0 +1,45 @@
+ENUNCIADO DA PESQUISA
+
+Com o objetivo de melhor conhecer e estudar a Linguagem SQL usada em Sistemas Gerenciadores de Banco de Dados Relacionais (SGBDR) todos os estudantes da turma deverão realizar uma pesquisa para responder as perguntas abaixo e compreender melhor tal conteúdo (SCRIPT) sobre a Linguagem SQL. A partir dessa pesquisa, iniciando com os endereços virtuais indicados pelo módulo Material do SAE, cada estudante poderá também consultar outras fontes como livros, sítios virtuais, vídeos instrutivos da área de Banco de Dados, entre outros recursos ou mídias confiáveis.
+
+É interessante lembrar que a turma já realizou um estudo com pesquisa sobre Ferramentas CASE neste período letivo na disciplina, com a elaboração de um documento apresentando resultados de tal pesquisa, ao qual foi observada a importância de conhecer um mínimo inicialmente de maneira e fontes confiáveis para não se envolver com informações ou esclarecimentos incorretos ou falsos.
+
+Nesta nova atividade você estará estudando um pouco melhor o que é SCRIPT em SGBDR. Assista ou leia as indicações iniciais acima no módulo Material para iniciar sua pesquisa com mais segurança, evitando de acreditar em qualquer afirmação ou apresentação que esteja disponível na Internet e não seja correta - lembre da pesquisa em Ferramentas CASE que tinha um vídeo que parecia interessante, mas com uma afirmação incorreta.
+
+Somente depois de assistir ou ler os conteúdos de estudo recomendados sobre SCRIPT, além do início da compreensão inicial do nível Físico em SGBDR, crie um arquivo de edição de texto respondendo as questões abaixo nesta atividade do MOODLE. Esse arquivo deverá ser entregue no formato padrão em PDF com a expressão inicial scriptSQL, seguida de seu primeiro e último nome, além da matrícula. Por exemplo, o arquivo entregue pela Ana Maria Braga, de matrícula 19/003245, seria:
+scriptSQL_AnaBragra_19003245.pdf
+
+
+PERGUNTAS
+Para responder as questões que fazem referência a um vídeo específico todos estudantes deverão assistir a recomendação com título Melhorando Nível Físico Inicial do Banco de Dados em MySQL, que também está disponível no módulo Material do SAE (conteúdo da disciplina SBD1 de Linguagem SQL).
+
+1) No vídeo o professor está usando um ambiente gráfico para escrever as instruções SQL. Observe se cada vez que ele solicita a execução todos os comandos disponíveis estão sendo executados, um em seguida do outro, ou somente um comando é executado realmente (e não todos que estão na tela de instruções da ferramenta MySQL Workbench usada por ele)?
+Atenção, pois a sua resposta para esta primeira pergunta será SOMENTE a expressão TODOS para execução de todos os comandos disponíveis na tela ou será SOMENTE a expressão UM POR VEZ para execução de somente um comando de cada vez ao invés de todos de uma só vez.
+2) Com base em seus estudos/pesquisas sobre SCRIPT em Linguagem SQL para os SGBDRs, elabore a resposta para esta pergunta apresentando o que é um SCRIPT para Linguagem SQL e JUSTIFIQUE a sua resposta para a pergunta anterior (número 1), subsidiando a sua resposta de forma mais esclarecedora informando se a apresentação estava ou não solicitando a execução total de um SCRIPT ou NÃO (um comando por vez)?
+
+Atenção, pois sua resposta para ser considera realizada nesta atividade deverá possuir mais que 100 caracteres, caso contrário a atividade nem será considerada entregue, independente do que esteja escrito na atividade inteira.
+
+
+
+Um ótimo estudo sobre esse recurso importante que vocês estarão utilizando bastante nas entregas de exercícios solicitados na disciplina pelo MOODLE nas próximas atividades contendo SCRIPTs SQL e que será muito habitual o uso na disciplina no nível Físico ou de implementação do projeto de Banco de Dados.
+
+
+ATENÇÃO
+
+Suas respostas não poderão possuir menos do que 100 ou mais que 500 caracteres na somada das duas respostas (1 e 2) para poder ser avaliada em estar CORRETA ou INCORRETA. Se não respeitar essa definição a resposta será considerada incorreta e não resolvida a contento, independente do seu conteúdo (atividade será considerada NÃO realizada ou entregue).
+
+O arquivo entregue que não puder ser aberto para correção, ou estiver com vírus, será considerado não entregue e a atividade não terá sido realizada a contento da disciplina.
+
+No caso de dúvidas ou dificuldades no uso do módulo Material do SAE utilize o ambiente de ajuda (AjudaSAE) deste software educacional, conforme orientação fornecida nos encontros anteriores.
+
+    AjudaSAE
+https://sae.unb.br/ajudasae 
+
+Navegue pelo ambiente selecionando o seu perfil como Aluno no menu lateral à esquerda e em seguida selecione o módulo do SAE que você deseja receber auxílio clicando em uma das opções em roxo no menu superior. Clique então sobre a pergunta disponível que lhe seja mais coerente e em seguida na na expressão MATERIAL no AjudaSAE para suprir sua dúvida. Navegue para a aba em que o SAE permanece aberto em seu navegador e realize as operações indicadas pelo AjudaSAE para realizar o que você deseja.
+
+
+Bom estudos!
+
+Endereço virtual de acesso direto ao SAE:
+https://sae.unb.br/sae
+

@@ -1,0 +1,29 @@
+Na última aula novas reflexões sobre este problema e a solução proposta na evolução anterior, sendo demandado pelo professor uma nova evolução no nível em que a turma estaria para solucionar finalmente tal problema com uma base de dados coerente.
+
+Assim, todos estudantes da turma deverão acessar na Área de Compartilhamento (pasta solucoes e arquivo CORRIGIR_aula4exer2Evolucao3_DOC_JohnnyLopes_190110066-1.pdf) a solução a ser evoluída com a construção do projeto de banco de dados a partir do ME-R coerente e o decorrente DE-R e DE.
+
+
+ENUNCIADO ORIGINAL
+
+Elabore a solução do problema proposto desenvolvendo seu Modelo Entidade-Relacionamento (ME-R) e o respectivo Diagrama Entidade-Relacionamento (DE-R) correspondente ao ME-R elaborado. Assim, faça primeiro uma análise das situações apresentadas (requisitos) e desenvolva o ME-R, seguindo a técnica que o professor explicou de três passos para finalizar com o DE-R. Em seguida, crie o DE-R correspondente e descreva o(s) esquema(s) resultante(s) desse DE-R (criar o Diagrama de Esquemas para este DE-R).
+
+     METODOLOGIA =>   (primeiro) ME-R =>   (depois) DE-R =>   (finaliza) DE
+
+
+ENUNCIADO
+
+Existe a necessidade de criação de uma agenda pessoal para uma única pessoa contendo os dados de identificação de cada pessoa cadastrada, seu(s) endereço(s) e telefone(s), parentescos primários (somente cônjuge, filhos e pais) identificados com os dados pessoais (nome e data de nascimento) de cada um destes parentes que serão registrados (armazenados na agenda pessoal).
+
+Respeite as regras para elaboração do ME-R e dos diagramas (DE-R e Diagrama de Esquemas), conforme foi estudado nas últimas aulas.
+
+A expressão inicial será aula4exer2Evolucao4_DOC para esta solução que será entregue somente no MOODLE em um único arquivo de documentação contendo o ME-R (descritivo com a identificação das entidades, seguida da descrição de seus respectivos atributos e os relacionamentos como estão no exercício proposto como o exemplo na Aula 4), DE-R e o respectivo Diagrama de Esquemas (DE). Respeite o padrão de entrega de exercícios no MOODLE usando a expressão inicial. Por exemplo, suponha que o aluno Edson Arantes do Nascimento, com matrícula 12-1223222, fosse entregar este exercício:
+
+aula4exer2Evolucao4_DOC_EdsonNascimento_121223222.pdf (ou no padrão Word .doc ou ainda em .xdoc)
+
+ATENÇÃO
+
+Os arquivos entregues que não puderem ser abertos para correção, ou estiverem com vírus, serão considerados não entregues e a atividade não terá sido realizada a contento na disciplina.
+
+A inexistência do arquivo DOC em qualquer atividade da disciplina de modelagem resulta na nota mínima (zero ou não reconhecimento de entrega a contento) porque não existe a proposta de modelagem, então não existiria a base de dados a ser implementada.
+
+Os diagramas e a metodologia explicada para a modelagem são exigidas e devem estar coerentemente sendo aplicadas e respeitadas na solução entregue com ME-R (padrão da disciplina), DE-R (só no brModelo) e DE, caso contrário não será considerada entregue a contento da disciplina a sua proposta de solução.
