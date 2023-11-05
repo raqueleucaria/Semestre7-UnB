@@ -1,10 +1,10 @@
-NOVO - Exercício 5 da Aula 4 (Evolução 5)
+# NOVO - Exercício 5 da Aula 4 (Evolução 5)
 
 Continuando a aprendizagem inicial na Linguagem SQL, está sendo solicitada a evolução da solução disponível na Área de Compartilhamento (pasta solucoes e arquivo CORRIGIR_aula4exer5Evolucao4_WesleyCarvalho_200044559.zip), em que TODOS os estudantes da TURMA deverão fazer uma revisão somente nesta solução disponível e com problemas abordados em aulas anteriores que precisam ser corrigidos e integrado dois novos scripts com as expressões iniciais Popula e Apaga, além do outro script já solicitado anteriormente (Fisico) que também deve ser revisado e ajustado ao novo projeto proposto como uma solução mais completa.
 
 Dessa forma, todos os estudantes da turma deverão evoluir/corrigir a solução e integrar ao projeto de banco de dados com três scripts (no padrão .sql) que possuirão a documentação mínima exigida pela disciplina a partir do arquivo modelo de cabeçalho coerente ao seu conteúdo em cada script, estando este modelo na Área de Compartilhamento (pasta aulas).
 
-ENUNCIADO (original)
+## ENUNCIADO (original)
 
 Uma clínica médica está preocupada com o receituário que seus médicos estão passando para cada paciente e lhe contratou para elaborar uma base de dados que permita ao coordenador da clínica acompanhar estas receitas médicas fornecidas aos pacientes, evitando possíveis enganos. Cada médico precisa ser cadastrado com seu CRM (número de inscrição do médico no Conselho Regional de Medicina, que é estadual), nome completo e especialidade clínica, enquanto os pacientes serão registrados no banco de dados com nome completo, idade, sexo, telefone(s) e o endereço residencial (só um endereço). A possível prescrição média, contida na receita fornecida pelo médico após uma consulta na clínica, deverá conter a data de emissão e o(s) medicamento(s) receitado(s).
 
@@ -22,6 +22,7 @@ Faça o ME-R, DE-R e o Diagrama Lógico de Dados (DLD), NÃO sendo mais solicita
 
 6) novo arquivo de script no padrão de caracteres simples (ASCII do editor de texto) e extensão sql contendo como documentação o cabeçalho exigido na disciplina que está disponível na Área de Compartilhamento (pasta aulas), além da palavra Popula, sendo incluída na expressão inicial deste documento, ficando então aula4exer5Evolucao5_Popula_JairBolsonaro_20543123.sql, seguida do primeiro e último nome do estudante, além da matrícula antes da extensão do arquivo. Este novo arquivo terá todas as instruções SQL que inserem no mínimo 3 tuplas por tabelas existentes no projeto, SEM usar instruções procedurais do MySQL (só instruções SQL são aceitas) e com todos os dados simulando informações reais, a fim de efetuar também os testes iniciais na base de dados proposta como solução deste problema.
 
+### Arquivo de envio
 
 Respeite o padrão de nome do arquivo que será entregue no MOODLE, contendo a expressão inicial aula4exer5Evolucao5, seguida de seu primeiro e último nome SOMENTE, sem acento ou 'ç', e sua matrícula na UnB. Esta expressão inicial também será o nome da base de dados. Por exemplo, suponha que o aluno Jair Messias Bolsonaro, com matrícula 20-543123, fosse entregar a solução desse exercício o arquivo compactado seria:
 
@@ -35,7 +36,7 @@ aula4exer5Evolucao5
 
  
 
-ATENÇÃO
+### ATENÇÃO
 
 Note que cada solução de problemas solicitadas envolve vários arquivos, então crie cada uma de suas soluções em UMA PASTA ESPECÍFICA com o nome padrão que corresponde exatamente ao nome do arquivo compactado, sem a extensão por ser uma pasta e não um arquivo, e depois de terminar a sua solução compacte a pasta e entregue na atividade MOODLE. Esta organização facilita você com seus arquivos e todos os colegas que poderão baixar para correção cooperativa entre todos durante a aula, além de corresponder a uma atividade de organização prática também avaliada na disciplina. Em atividades avaliativas essa organização no armazenamento e compartilhamento dos arquivos, que são responsáveis por um projeto de banco de dados, também é avaliada.
 
